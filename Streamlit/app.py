@@ -4,7 +4,7 @@ import random
 import pandas as pd
 
 # Dataset Load
-df_movies = pd.read_csv('C:/Projects/RecommendationSystem/clustered_movies.csv')
+df_movies = pd.read_csv('clustered_movies.csv')
 
 # Function to recommend movies
 def recommend_movie(movie_name: str, n_recommendations=5):
