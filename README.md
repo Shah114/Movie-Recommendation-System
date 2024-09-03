@@ -3,3 +3,7 @@ This repository contains a Movie Recommendation System built using data from Net
 <br/>
 
 ## Introduction
+The Movie Recommendation System uses three datasets sourced from Kaggle, focusing on Netflix, Amazon, and HBO movies and TV series. The system leverages the DBSCAN clustering algorithm to group similar movies and provide recommendations based on user input. <br/>
+<br/>
+
+## Features
