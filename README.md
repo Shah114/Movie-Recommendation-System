@@ -66,4 +66,4 @@ To run the Movie Recommendation System locally, follow these steps: <br/>
 <br/>
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
+Contributions are welcome! Please feel free to submit a pull request or open an issue. <br/>
