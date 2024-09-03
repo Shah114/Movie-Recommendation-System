@@ -44,7 +44,11 @@ To run the Movie Recommendation System locally, follow these steps: <br/>
    ```bash
    pip install -r requirements.txt
    ```
-3. 
+3. Run the Streamlit application:
+   ```bash
+   streamlit run app_streamlit.py
+   ```
+4. Run the Flask API application:
 
    
 
