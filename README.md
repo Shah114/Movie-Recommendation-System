@@ -22,3 +22,7 @@ All datasets were sourced from Kaggle and combined to create a comprehensive dat
 <br/>
 
 ## Clustering Technique
+The DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm was used to cluster the movies and TV series. This clustering allows the system to identify similar content and make more accurate recommendations. <br/>
+<br/>
+
+## Implementations
