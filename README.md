@@ -13,3 +13,11 @@ The Movie Recommendation System uses three datasets sourced from Kaggle, focusin
 <br/>
 
 ## Datasets
+The following datasets were used to build the recommendation system: <br/>
+* Netflix Movies and TV Series Dataset - Contains details about movies and TV shows available on Netflix.
+* Amazon Prime Movies and TV Series Dataset - Includes data on movies and TV series available on Amazon Prime.
+* HBO Movies and TV Series Dataset - Consists of information about movies and TV series available on HBO. <br/>
+All datasets were sourced from Kaggle and combined to create a comprehensive data source. <br/>
+<br/>
+
+## Clustering Technique
