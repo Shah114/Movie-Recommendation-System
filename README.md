@@ -49,6 +49,13 @@ To run the Movie Recommendation System locally, follow these steps: <br/>
    streamlit run app_streamlit.py
    ```
 4. Run the Flask API application:
+   ```bash
+   python app_flask.py
+   ```
+<br/>
+
+## Usage
+
 
    
 
