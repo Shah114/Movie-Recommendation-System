@@ -40,7 +40,11 @@ To run the Movie Recommendation System locally, follow these steps: <br/>
    git clone https://github.com/Shah114/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
-2. 
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. 
 
    
 
