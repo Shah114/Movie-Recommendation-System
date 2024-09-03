@@ -33,3 +33,15 @@ The Streamlit implementation provides an interactive interface where users can i
 The Flask API implementation offers a more scalable solution with a custom HTML front end. Users interact with the system through the front end, while the backend processes requests and provides recommendations. This version is suitable for integration into larger web applications or services. <br/>
 <br/>
 
+## Setup and Installation
+To run the Movie Recommendation System locally, follow these steps: <br/>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shah114/movie-recommendation-system.git
+   cd movie-recommendation-system
+   ```
+2. 
+
+   
+
+
