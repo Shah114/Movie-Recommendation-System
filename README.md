@@ -55,7 +55,17 @@ To run the Movie Recommendation System locally, follow these steps: <br/>
 <br/>
 
 ## Usage
+* Streamlit: Open the Streamlit app in your browser, input your movie preferences, and get recommendations instantly.
+* Flask API: Access the Flask app through the provided HTML front end, where you can enter your preferences and receive tailored recommendations. <br/>
+<br/>
 
+## Future Enhancements
+* Improved Recommendation Algorithm: Experiment with other clustering and recommendation algorithms for better accuracy.
+* Additional Datasets: Incorporate more streaming services to enhance the system's range of recommendations.
+* User Authentication: Implement user login and profile management for personalized recommendations. <br/>
+<br/>
+
+## Contributing
 
    
 
