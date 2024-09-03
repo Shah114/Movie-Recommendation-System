@@ -26,3 +26,10 @@ The DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorit
 <br/>
 
 ## Implementations
+**Streamlit** <br/>
+The Streamlit implementation provides an interactive interface where users can input their preferences and receive movie or TV series recommendations. This implementation is ideal for quick and easy access to the recommendation system. <br/>
+
+**Flask API** <br/>
+The Flask API implementation offers a more scalable solution with a custom HTML front end. Users interact with the system through the front end, while the backend processes requests and provides recommendations. This version is suitable for integration into larger web applications or services. <br/>
+<br/>
+
