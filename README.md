@@ -7,3 +7,9 @@ The Movie Recommendation System uses three datasets sourced from Kaggle, focusin
 <br/>
 
 ## Features
+* Clustering with DBSCAN: Grouping of movies and TV series based on features to create clusters for recommendation.
+* Streamlit Implementation: A user-friendly web interface for easy interaction with the recommendation system.
+* Flask API Implementation: A robust backend system with a custom HTML front end for serving recommendations. <br/>
+<br/>
+
+## Datasets
