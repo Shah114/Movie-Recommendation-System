@@ -7,7 +7,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the dataset
-df_movies = pd.read_csv('C:/Projects/RecommendationSystem/clustered_movies.csv')
+df_movies = pd.read_csv('clustered_movies.csv') # path of dataset
 
 # Function to recommend movies
 def recommend_movie(movie_name: str, n_recommendations=5):
